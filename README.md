@@ -3,7 +3,7 @@
 This application is a powerful tool designed to unlock RAR archives by attempting to crack their passwords. It uses a combination of real-world leaked passwords and customizable brute-force methods to maximize efficiency and success rates.
 
 <p align="center">
-  <img src="./Screenshots/image1.png" alt="RAR Cracker" height="400"/>
+  <img src="./Screenshots/image1.png" alt="RAR Cracker" height="400" width="700"/>
 </p>
 
 ## Features
